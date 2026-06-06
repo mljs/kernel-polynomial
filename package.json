@@ -1,6 +1,6 @@
 {
   "name": "ml-kernel-polynomial",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "The polynomial kernel",
   "type": "module",
   "exports": {

@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/mljs/kernel-polynomial/compare/v2.1.0...v3.0.0) (2026-06-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* the package no longer has a default export. Replace `import PolynomialKernel from 'ml-kernel-polynomial'` with `import { PolynomialKernel } from 'ml-kernel-polynomial'`.
+
+### Features
+
+* use a named export instead of a default export ([e1fe08c](https://github.com/mljs/kernel-polynomial/commit/e1fe08c633bb30ac2d5286684b1ef04101ca77d3))
+
 ## [2.1.0](https://github.com/mljs/kernel-polynomial/compare/v2.0.1...v2.1.0) (2026-06-06)
 
 
