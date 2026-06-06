@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 
-import PolynomialKernel from '../index.js';
+import { PolynomialKernel } from '../index.js';
 
 // Test taken from https://github.com/accord-net/framework/blob/development/Unit%20Tests/Accord.Tests.Statistics/Kernels/PolynomialTest.cs
 test("like R's kernlab", () => {
